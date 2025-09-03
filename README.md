@@ -3,6 +3,13 @@
 Project Architecture & Workflow
 This project implements a complete end-to-end AI racing system using TORCS (The Open Racing Car Simulator) that learns from human driving data and can autonomously control a racing car. The system follows a data-driven approach with three main phases: data collection, model training, and autonomous driving.
 
+<img width="480" height="362" alt="4" src="https://github.com/user-attachments/assets/f40baee8-e89c-417e-912a-0e5be704b212" />
+
+
+<img width="486" height="384" alt="2" src="https://github.com/user-attachments/assets/732df88a-ab4a-4661-870d-405461800288" />
+
+
+
 Phase 1: Data Collection System
 The data collection phase utilizes a sophisticated driver interface that supports multiple control modes:
 Multi-Modal Control Interface: The system supports three distinct control modes - AI-driven autonomous control, keyboard-based human control, and Xbox 360 controller input, allowing for flexible data collection from different input methods.
